@@ -31,7 +31,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
           </button>
           <span className="hidden sm:inline text-xs text-slate-400 font-normal">
-            Amazon Hackathon Prototype
+            Made by Team for AWS Hackathon
           </span>
         </div>
 

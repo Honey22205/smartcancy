@@ -41,8 +41,14 @@ export const IdeaDocument: React.FC<IdeaDocumentProps> = ({ onNavigateTab }) => 
         <p className="text-base text-amber-600 font-semibold mt-1">
           Turning cancelled orders into useful deliveries
         </p>
-        <p className="text-xs text-slate-500 mt-0.5">
-          Amazon Hackathon idea document · Complete 12-Section Specification
+        <p className="text-xs text-slate-500 mt-0.5 flex items-center gap-2 flex-wrap">
+          <span>AWS Hackathon idea document</span>
+          <span>·</span>
+          <span>Complete 12-Section Specification</span>
+          <span>·</span>
+          <span className="font-semibold text-amber-600 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
+            Made by Team for AWS Hackathon
+          </span>
         </p>
       </div>
 

@@ -99,9 +99,9 @@ export default function App() {
           </div>
 
           <div className="text-center sm:text-right text-slate-400">
-            <span>Amazon Hackathon Idea Document</span>
+            <span className="text-amber-400 font-semibold">Made by Team for AWS Hackathon</span>
             <span className="mx-2">·</span>
-            <span className="text-amber-400 font-medium">"We do not stop cancellations. We make them cheaper."</span>
+            <span>"We do not stop cancellations. We make them cheaper."</span>
           </div>
         </div>
       </footer>
