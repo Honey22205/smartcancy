@@ -1,0 +1,6 @@
+{
+  "name": "Smart Cancel - Turning Cancelled Orders into Useful Deliveries",
+  "description": "Amazon Hackathon logistics innovation platform that intercepts late cancellations with honest impact nudges and local hub re-matching to eliminate return waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
